@@ -14,8 +14,4 @@
 
 ├── flights.db # SQLite database file
 
-├── requirements.txt # Required Python libraries
-
-├── README.md # Project documentation
-
-├── .gitignore # Git ignore file
+├── main.exe # Executable Application
